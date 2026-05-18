@@ -43,10 +43,9 @@ Resize the frame and rotate it using OpenCV functions, then display the processe
 ## 💻 Program
 
 ### Developed By:
-**Name:** ____________________________  
+**Name:** Venkatesan R
 
-### Register No:
-____________________________  
+### Register No: 212224230299
 
 ---
 
@@ -54,6 +53,7 @@ ____________________________
 
 ### i) Write the frame as JPG image
 Captured image is saved as `captured_image.jpg`
+
 
 ### ii) Display the video
 Live webcam video is displayed
